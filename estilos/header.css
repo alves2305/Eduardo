@@ -1,0 +1,6 @@
+.contain__header{
+    background-image: url(/imagens/file\ 1.png);
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

@@ -1,0 +1,18 @@
+.contain__metodo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.titulo-principal1 {
+    color: #E3DC95;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 50px 16px 14px;
+    text-align: center;
+
+}
+.video{
+    width: 350px;
+    
+}
