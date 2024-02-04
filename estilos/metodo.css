@@ -12,7 +12,21 @@
     text-align: center;
 
 }
-.video{
-    width: 350px;
-    
+.contain__metodo img {
+    width: 410px;
+    padding-bottom: 10%;
+
+}
+.contain-sec {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.contain-diferencial {
+    height: 220px;
+}
+.contain-diferencial h2 {
+    padding-top: 8%;
 }
